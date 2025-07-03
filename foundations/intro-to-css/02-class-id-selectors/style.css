@@ -1,0 +1,20 @@
+.aClass {
+    background-color: lightpink;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+.aClass.cooler {
+    font-size: 32px;
+}
+
+#id-1 {
+    font-size: 48px;
+    color: blue;
+}
+
+#id-2 {
+    background-color: greenyellow;
+    font-size: 36px;
+    font-weight: 700;
+}
